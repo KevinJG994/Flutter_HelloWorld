@@ -1,16 +1,8 @@
-# hola_mundo
+![GitHub repo size](https://img.shields.io/github/repo-size/KevinJG994/Flutter_HelloWorld) ![GitHub last commit](https://img.shields.io/github/last-commit/KevinJG994/Flutter_HelloWorld)
 
-A new Flutter project.
+# Flutter HelloWorld App 👋
 
-## Getting Started
+Este repositorio contiene una aplicación de ejemplo "Hello World" desarrollada con Flutter.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demostración 🎥
+[¡Hola Mundo! - Flutter.webm](https://github.com/KevinJG994/Flutter_HelloWorld/assets/96546093/2eced20a-8198-4471-852a-8a6199625660)
